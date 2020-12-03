@@ -1,3 +1,3 @@
-# wc-tiempo-procesado-pedido
+# Información
 
 Desactiva el tiempo de espera de los pedidos pendientes de pago en WooCommerce.
